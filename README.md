@@ -30,7 +30,7 @@ usb_monitor_service/
 ├── usb_handler.py          # Lógica de detecção de eventos USB
 ├── file_logger.py          # Classe Logger responsável por gerar logs CSV
 ├── service_launcher.py     # Instalador do serviço usando NSSM
-├── requirements.txt        # Bibliotecas necessárias
+├── <u>requirements.txt</u> # Substituido pelo service_launcher
 ├── README.md               # Documentação do projeto
 ```
 
